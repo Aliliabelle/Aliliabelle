@@ -1,6 +1,4 @@
--<pre>
-
-&nbsp;</pre>
+</pre>
 
 <div style="margin-left:-16px;width:1014px;height:2157px;padding:100px 0px;background:#0F1A1F;text-transform:uppercase;color:#FFCBA4;">
 <div class="stack sympl-stack" style="padding:0;margin:auto;max-width:750px;border:7px solid #FFCBA4;">
